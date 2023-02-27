@@ -6,7 +6,8 @@ use CodeIgniter\Exceptions\PageNotFoundException; // Add this line
 
 class Pages extends BaseController
 {
-   
+    // ...
+
     public function view($page = 'home')
     {
         if (! is_file(APPPATH . 'Views/pages/' . $page . '.php')) {
