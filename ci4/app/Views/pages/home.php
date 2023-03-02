@@ -333,18 +333,18 @@
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="<?= base_url('purecounter/purecounter_vanilla.js'); ?>"></script>
-  <script src="<?= base_url('aos/aos.js'); ?>"></script>
-  <script src="<?= base_url('bootstrap/js/bootstrap.bundle.min.js'); ?>"></script>
-  <script src="<?= base_url('glightbox/js/glightbox.min.js'); ?>"></script>
-  <script src="<?= base_url('isotope-layout/isotope.pkgd.min.js'); ?>"></script>
-  <script src="<?= base_url('swiper/swiper-bundle.min.js'); ?>"></script>
-  <script src="<?= base_url('typed.js/typed.min.js'); ?>"></script>
-  <script src="<?= base_url('waypoints/noframework.waypoints.js'); ?>"></script>
-  <script src="<?= base_url('php-email-form/validate.js'); ?>"></script>
+  <script src="purecounter/purecounter_vanilla.js"></script>
+  <script src="aos/aos.js'); ?>"></script>
+  <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="glightbox/js/glightbox.min.js"></script>
+  <script src="isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="swiper/swiper-bundle.min.js"></script>
+  <script src="typed.js/typed.min.js"></script>
+  <script src="waypoints/noframework.waypoints.js"></script>
+  <script src="php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="<?= base_url('js/main.js'); ?>"></script>
+  <script src="js/main.js"></script>
 
  
     
