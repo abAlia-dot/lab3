@@ -28,7 +28,7 @@
   <link href="<?= base_url('swiper/swiper-bundle.min.css'); ?>"  rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="<?= base_url('css/style.css'); ?>" rel="stylesheet">
+  <link href="css/style.css')" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: iPortfolio - v3.10.0
