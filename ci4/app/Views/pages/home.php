@@ -18,12 +18,12 @@
 
   <!-- Vendor CSS Files -->
 
-  <link href="<?=base_url('aos/aos.css');?>" rel="stylesheet">
-  <link href="<?=base_url('bootstrap/css/bootstrap.min.css');?>" rel="stylesheet">
-  <link href="<?=base_url('bootstrap-icons/bootstrap-icons.css');?>" rel="stylesheet">
-  <link href="<?=base_url('boxicons/css/boxicons.min.css');?>" rel="stylesheet">
-  <link href="<?=base_url('glightbox/css/glightbox.min.css');?>" rel="stylesheet">
-  <link href="<?=base_url('swiper/swiper-bundle.min.css');?>" rel="stylesheet">
+  <link href="('aos/aos.css');?>" rel="stylesheet">
+  <link href="('bootstrap/css/bootstrap.min.css');" rel="stylesheet">
+  <link href="('bootstrap-icons/bootstrap-icons.css');" rel="stylesheet">
+  <link href="('boxicons/css/boxicons.min.css');?>" rel="stylesheet">
+  <link href="('glightbox/css/glightbox.min.css');" rel="stylesheet">
+  <link href="('swiper/swiper-bundle.min.css');" rel="stylesheet">
 
   <!-- Template Main CSS File -->
   <link href="css/style.css" rel="stylesheet">
