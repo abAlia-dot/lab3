@@ -20,4 +20,4 @@
 <br>
 <br>
 <p>You can add news here! <?= anchor("news", "News Section") ?></p>
-<p>Back to Homepage<a class="btn btn-primary" href="home" role="button">Homepage</a>
+<p>Back to Homepage<a class="btn btn-primary" href="/home" role="button">Homepage</a>
