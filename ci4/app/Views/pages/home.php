@@ -282,7 +282,7 @@
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="/lab3/ci4/public/news/create" method="post" role="form" class="php-email-form">
             <p class="text-center"> Please Proceed to fill-out the form to contact me </p>
-              <div class="text-center"><a href="~abalia/lab3/ci4/public/news/create"><button type="button">Fill Out</button></a></div>
+              <div class="text-center"><a href="news/create"><button type="button">Fill Out</button></a></div>
             </form>
           </div>
 
