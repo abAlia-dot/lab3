@@ -278,38 +278,19 @@
 
           </div>
 
+          
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="form-group col-md-6">
-                  <label for="name">Full Name</label>
-                  <input type="text" name="full_name" class="form-control" id="name" required>
-                </div>
-                <div class="form-group col-md-6">
-                  <label for="name">Email</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
-                </div>
-              </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject_taken" id="subject" required>
-              </div>
-              <div class="form-group">
-                <label for="name">Message</label>
-                <textarea class="form-control" name="message_flow" rows="10" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Submit</button></div>
+            <form action="/lab3/ci4/public/news/create" method="post" role="form" class="php-email-form">
+            <p class="text-center"> Please Proceed to fill-out the form to contact me </p>
+              <div class="text-center"><a href="/lab3/ci4/public/news/create"><button type="button">Fill Out</button></a></div>
             </form>
           </div>
 
         </div>
 
       </div>
+
+      
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->

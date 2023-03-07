@@ -1,0 +1,12 @@
+body {
+    font-family: san-serif;
+}
+
+section {
+    border: 10px solid gray;
+    height: 90vh;
+}
+.container {
+    border: 10px solid gray;
+    max-width: 700px;
+}

@@ -9,7 +9,7 @@
         <div class="main">
             <?= esc($news_item['body']) ?>
         </div>
-        <p><a href="~abalia/lab3/ci4/public/abalia_news/<?= esc($news_item['slug'], 'url') ?>">View article</a></p>
+        <p><a href="news/<?= esc($news_item['slug'], 'url') ?>">View article</a></p>
 
     <?php endforeach ?>
 
@@ -20,3 +20,5 @@
     <p>Unable to find any news for you.</p>
 
 <?php endif ?>
+
+<p>Back to Homepage<a class="btn btn-primary" href="~abalia/lab3/ci4/public/home" role="button">Homepage</a>
