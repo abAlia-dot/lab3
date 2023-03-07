@@ -102,7 +102,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>27 Sept 2002</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>http://apcwebprog.csf.ph/~abalia</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>09956258031</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>0992323241</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Pasay City</span></li>
                 </ul>
               </div>
@@ -110,7 +110,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>N/A</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>abalia@student.apc.edu.ph</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>abalia@student.edu.ph</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Student</span></li>
                 </ul>
               </div>
@@ -258,19 +258,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>28 Yakal St. Brgy Mulawin Malibay Pasay City</p>
+                <p>289 Ilog St. Brgy Malawi Malibay Pasay City</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>abalia@student.apc.edu.ph</p>
+                <p>abalia@student.edu.ph</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>9956258031</p>
+                <p>9934253424</p>
               </div>
 
               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2296.4757928308272!2d121.00908700700097!3d14.530748622893512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c949ddc22e23%3A0xd360ed5101e39c90!2sBarangay%20182%2C%20Mulawin%20Pasay%20City!5e0!3m2!1sen!2sph!4v1677383692533!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
