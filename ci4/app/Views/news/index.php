@@ -21,4 +21,4 @@
 
 <?php endif ?>
 
-<p>Back to Homepage<a class="btn btn-primary" href="~abalia/lab3/ci4/public/home" role="button">Homepage</a>
+<p>Back to Homepage<a class="btn btn-primary" href="home" role="button">Homepage</a>
